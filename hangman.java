@@ -20,7 +20,7 @@ public class hangman {
 		System.out.println(
 				"You have the right to exit halfway through the game.\nHint:Lower and upper characters are not important both are correct\nHave a good fun");
 		System.out.println(
-				"If you are entering more than one word, you should write the words together by putting '_' in the blanks.\nFor example: \"ufuk_yilmaz\"");
+				"Hint:If you are entering more than one word, you should write the words together by putting '_' in the blanks.\nFor example: \"ufuk_yilmaz\"");
 		System.out.println(
 				"----------------------------------------------------------------------------------------------------------------------------------");
 
